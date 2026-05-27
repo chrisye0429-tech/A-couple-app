@@ -1,0 +1,668 @@
+{
+  "version": 1,
+  "pageSize": 20,
+  "updatedAt": "2026-05-21",
+  "stickers": [
+    {
+      "id": "sticker-heart-red",
+      "kind": "sticker",
+      "name": "手绘红色爱心",
+      "category": "love",
+      "tags": [
+        "爱心",
+        "情侣",
+        "手绘"
+      ],
+      "source": "cdn",
+      "priority": 100,
+      "imageUrl": "https://cdn.couple-journal.example/stickers/heart-red.png",
+      "thumbnailUrl": "https://cdn.couple-journal.example/stickers/thumbs/heart-red.png"
+    },
+    {
+      "id": "sticker-heart-pink",
+      "kind": "sticker",
+      "name": "粉色爱心",
+      "category": "love",
+      "tags": [
+        "爱心",
+        "粉色",
+        "甜蜜"
+      ],
+      "source": "cdn",
+      "priority": 99,
+      "imageUrl": "https://cdn.couple-journal.example/stickers/heart-pink.png",
+      "thumbnailUrl": "https://cdn.couple-journal.example/stickers/thumbs/heart-pink.png"
+    },
+    {
+      "id": "sticker-star-yellow",
+      "kind": "sticker",
+      "name": "黄色五角星",
+      "category": "daily",
+      "tags": [
+        "星星",
+        "五角星",
+        "明亮"
+      ],
+      "source": "cdn",
+      "priority": 98,
+      "imageUrl": "https://cdn.couple-journal.example/stickers/star-yellow.png",
+      "thumbnailUrl": "https://cdn.couple-journal.example/stickers/thumbs/star-yellow.png"
+    },
+    {
+      "id": "sticker-sun-smile",
+      "kind": "sticker",
+      "name": "微笑太阳",
+      "category": "weather",
+      "tags": [
+        "太阳",
+        "天气",
+        "开心"
+      ],
+      "source": "cdn",
+      "priority": 97,
+      "imageUrl": "https://cdn.couple-journal.example/stickers/sun-smile.png",
+      "thumbnailUrl": "https://cdn.couple-journal.example/stickers/thumbs/sun-smile.png"
+    },
+    {
+      "id": "sticker-cat-cute",
+      "kind": "sticker",
+      "name": "趴趴萌猫",
+      "category": "pet",
+      "tags": [
+        "萌宠",
+        "猫咪",
+        "可爱"
+      ],
+      "source": "cdn",
+      "priority": 96,
+      "imageUrl": "https://cdn.couple-journal.example/stickers/cat-cute.png",
+      "thumbnailUrl": "https://cdn.couple-journal.example/stickers/thumbs/cat-cute.png"
+    },
+    {
+      "id": "sticker-dog-line",
+      "kind": "sticker",
+      "name": "线条小狗",
+      "category": "pet",
+      "tags": [
+        "萌宠",
+        "小狗",
+        "线条"
+      ],
+      "source": "cdn",
+      "priority": 95,
+      "imageUrl": "https://cdn.couple-journal.example/stickers/dog-line.png",
+      "thumbnailUrl": "https://cdn.couple-journal.example/stickers/thumbs/dog-line.png"
+    },
+    {
+      "id": "sticker-date-label",
+      "kind": "sticker",
+      "name": "日期标签",
+      "category": "label",
+      "tags": [
+        "日期",
+        "标签",
+        "记录"
+      ],
+      "source": "cdn",
+      "priority": 94,
+      "imageUrl": "https://cdn.couple-journal.example/stickers/date-label.png",
+      "thumbnailUrl": "https://cdn.couple-journal.example/stickers/thumbs/date-label.png"
+    },
+    {
+      "id": "sticker-flower-daisy",
+      "kind": "sticker",
+      "name": "小雏菊",
+      "category": "plant",
+      "tags": [
+        "花朵",
+        "清新",
+        "装饰"
+      ],
+      "source": "cdn",
+      "priority": 93,
+      "imageUrl": "https://cdn.couple-journal.example/stickers/flower-daisy.png",
+      "thumbnailUrl": "https://cdn.couple-journal.example/stickers/thumbs/flower-daisy.png"
+    },
+    {
+      "id": "sticker-ribbon-pink",
+      "kind": "sticker",
+      "name": "粉色蝴蝶结",
+      "category": "decoration",
+      "tags": [
+        "蝴蝶结",
+        "粉色",
+        "装饰"
+      ],
+      "source": "cdn",
+      "priority": 82,
+      "imageUrl": "https://cdn.couple-journal.example/stickers/ribbon-pink.png",
+      "thumbnailUrl": "https://cdn.couple-journal.example/stickers/thumbs/ribbon-pink.png"
+    },
+    {
+      "id": "sticker-washi-mint",
+      "kind": "sticker",
+      "name": "薄荷胶带",
+      "category": "decoration",
+      "tags": [
+        "胶带",
+        "薄荷",
+        "手账"
+      ],
+      "source": "cdn",
+      "priority": 81,
+      "imageUrl": "https://cdn.couple-journal.example/stickers/washi-mint.png",
+      "thumbnailUrl": "https://cdn.couple-journal.example/stickers/thumbs/washi-mint.png"
+    }
+  ],
+  "fonts": [
+    {
+      "id": "font-rounded-cn",
+      "kind": "font",
+      "name": "圆润手写体",
+      "category": "handwriting",
+      "tags": [
+        "手写",
+        "中文",
+        "圆润"
+      ],
+      "source": "cdn",
+      "priority": 92,
+      "fontFileUrl": "https://cdn.couple-journal.example/fonts/rounded-cn.ttf",
+      "fontName": "CoupleRoundedCN",
+      "supportedLanguages": [
+        "zh-Hans",
+        "zh-Hant"
+      ]
+    },
+    {
+      "id": "font-marker-cn",
+      "kind": "font",
+      "name": "马克笔标题体",
+      "category": "title",
+      "tags": [
+        "标题",
+        "马克笔",
+        "中文"
+      ],
+      "source": "cdn",
+      "priority": 91,
+      "fontFileUrl": "https://cdn.couple-journal.example/fonts/marker-cn.ttf",
+      "fontName": "CoupleMarkerCN",
+      "supportedLanguages": [
+        "zh-Hans"
+      ]
+    },
+    {
+      "id": "font-soft-en",
+      "kind": "font",
+      "name": "Soft Diary",
+      "category": "handwriting",
+      "tags": [
+        "英文",
+        "手写",
+        "温柔"
+      ],
+      "source": "cdn",
+      "priority": 86,
+      "fontFileUrl": "https://cdn.couple-journal.example/fonts/soft-diary.ttf",
+      "fontName": "SoftDiary",
+      "supportedLanguages": [
+        "en"
+      ]
+    },
+    {
+      "id": "font-clean-sans",
+      "kind": "font",
+      "name": "清爽正文体",
+      "category": "body",
+      "tags": [
+        "正文",
+        "简洁",
+        "多语言"
+      ],
+      "source": "cdn",
+      "priority": 85,
+      "fontFileUrl": "https://cdn.couple-journal.example/fonts/clean-sans.ttf",
+      "fontName": "CoupleCleanSans",
+      "supportedLanguages": [
+        "zh-Hans",
+        "zh-Hant",
+        "en"
+      ]
+    }
+  ],
+  "backgrounds": [
+    {
+      "id": "background-solid-milk-tea",
+      "kind": "background",
+      "name": "奶茶色",
+      "category": "solid",
+      "tags": [
+        "纯色",
+        "奶茶色",
+        "温柔"
+      ],
+      "source": "local",
+      "priority": 100,
+      "imageUrl": "local-background://background-solid-milk-tea",
+      "backgroundType": "solid",
+      "previewUrl": "local-background-preview://background-solid-milk-tea",
+      "color": "#F5E6D3",
+      "accentColor": "#D8BFA4",
+      "renderMode": "solid",
+      "fitMode": "cover",
+      "customizable": true
+    },
+    {
+      "id": "background-solid-misty-blue",
+      "kind": "background",
+      "name": "雾霾蓝",
+      "category": "solid",
+      "tags": [
+        "纯色",
+        "雾霾蓝",
+        "清爽"
+      ],
+      "source": "local",
+      "priority": 99,
+      "imageUrl": "local-background://background-solid-misty-blue",
+      "backgroundType": "solid",
+      "previewUrl": "local-background-preview://background-solid-misty-blue",
+      "color": "#7C9EB2",
+      "accentColor": "#E7F0F5",
+      "renderMode": "solid",
+      "fitMode": "cover",
+      "customizable": true
+    },
+    {
+      "id": "background-solid-dusty-rose",
+      "kind": "background",
+      "name": "豆沙粉",
+      "category": "solid",
+      "tags": [
+        "纯色",
+        "豆沙粉",
+        "柔和"
+      ],
+      "source": "local",
+      "priority": 98,
+      "imageUrl": "local-background://background-solid-dusty-rose",
+      "backgroundType": "solid",
+      "previewUrl": "local-background-preview://background-solid-dusty-rose",
+      "color": "#E8C4C4",
+      "accentColor": "#B98091",
+      "renderMode": "solid",
+      "fitMode": "cover",
+      "customizable": true
+    },
+    {
+      "id": "background-solid-matcha",
+      "kind": "background",
+      "name": "抹茶绿",
+      "category": "solid",
+      "tags": [
+        "纯色",
+        "抹茶绿",
+        "自然"
+      ],
+      "source": "local",
+      "priority": 97,
+      "imageUrl": "local-background://background-solid-matcha",
+      "backgroundType": "solid",
+      "previewUrl": "local-background-preview://background-solid-matcha",
+      "color": "#C1D5A4",
+      "accentColor": "#7C9660",
+      "renderMode": "solid",
+      "fitMode": "cover",
+      "customizable": true
+    },
+    {
+      "id": "background-solid-ginger",
+      "kind": "background",
+      "name": "姜黄色",
+      "category": "solid",
+      "tags": [
+        "纯色",
+        "姜黄色",
+        "温暖"
+      ],
+      "source": "local",
+      "priority": 96,
+      "imageUrl": "local-background://background-solid-ginger",
+      "backgroundType": "solid",
+      "previewUrl": "local-background-preview://background-solid-ginger",
+      "color": "#E8B86B",
+      "accentColor": "#A96E2B",
+      "renderMode": "solid",
+      "fitMode": "cover",
+      "customizable": true
+    },
+    {
+      "id": "background-solid-warm-gray",
+      "kind": "background",
+      "name": "高级灰",
+      "category": "solid",
+      "tags": [
+        "纯色",
+        "高级灰",
+        "简洁"
+      ],
+      "source": "local",
+      "priority": 95,
+      "imageUrl": "local-background://background-solid-warm-gray",
+      "backgroundType": "solid",
+      "previewUrl": "local-background-preview://background-solid-warm-gray",
+      "color": "#B8B5B5",
+      "accentColor": "#777373",
+      "renderMode": "solid",
+      "fitMode": "cover",
+      "customizable": true
+    },
+    {
+      "id": "background-solid-lavender",
+      "kind": "background",
+      "name": "薰衣草紫",
+      "category": "solid",
+      "tags": [
+        "纯色",
+        "薰衣草紫",
+        "浪漫"
+      ],
+      "source": "local",
+      "priority": 94,
+      "imageUrl": "local-background://background-solid-lavender",
+      "backgroundType": "solid",
+      "previewUrl": "local-background-preview://background-solid-lavender",
+      "color": "#C3B1E1",
+      "accentColor": "#8068A8",
+      "renderMode": "solid",
+      "fitMode": "cover",
+      "customizable": true
+    },
+    {
+      "id": "background-solid-coral",
+      "kind": "background",
+      "name": "珊瑚橙",
+      "category": "solid",
+      "tags": [
+        "纯色",
+        "珊瑚橙",
+        "活泼"
+      ],
+      "source": "local",
+      "priority": 93,
+      "imageUrl": "local-background://background-solid-coral",
+      "backgroundType": "solid",
+      "previewUrl": "local-background-preview://background-solid-coral",
+      "color": "#F7A58C",
+      "accentColor": "#D86F52",
+      "renderMode": "solid",
+      "fitMode": "cover",
+      "customizable": true
+    },
+    {
+      "id": "background-texture-grid",
+      "kind": "background",
+      "name": "网格纸",
+      "category": "texture",
+      "tags": [
+        "纹理",
+        "网格纸",
+        "手账"
+      ],
+      "source": "local",
+      "priority": 92,
+      "imageUrl": "local-background://background-texture-grid",
+      "backgroundType": "texture",
+      "previewUrl": "local-background-preview://background-texture-grid",
+      "color": "#FFFDF8",
+      "secondaryColor": "#E3ECE5",
+      "accentColor": "#9FBBA8",
+      "renderMode": "grid",
+      "fitMode": "tile",
+      "customizable": false
+    },
+    {
+      "id": "background-texture-dot",
+      "kind": "background",
+      "name": "点阵纸",
+      "category": "texture",
+      "tags": [
+        "纹理",
+        "点阵纸",
+        "排版"
+      ],
+      "source": "local",
+      "priority": 91,
+      "imageUrl": "local-background://background-texture-dot",
+      "backgroundType": "texture",
+      "previewUrl": "local-background-preview://background-texture-dot",
+      "color": "#FFFDF8",
+      "secondaryColor": "#D7DFE3",
+      "accentColor": "#7C9EB2",
+      "renderMode": "dot",
+      "fitMode": "tile",
+      "customizable": false
+    },
+    {
+      "id": "background-texture-lined",
+      "kind": "background",
+      "name": "横线纸",
+      "category": "texture",
+      "tags": [
+        "纹理",
+        "横线纸",
+        "书写"
+      ],
+      "source": "local",
+      "priority": 90,
+      "imageUrl": "local-background://background-texture-lined",
+      "backgroundType": "texture",
+      "previewUrl": "local-background-preview://background-texture-lined",
+      "color": "#FFFDF7",
+      "secondaryColor": "#EADFD2",
+      "accentColor": "#C9B7A3",
+      "renderMode": "lined",
+      "fitMode": "tile",
+      "customizable": false
+    },
+    {
+      "id": "background-texture-kraft",
+      "kind": "background",
+      "name": "牛皮纸纹理",
+      "category": "texture",
+      "tags": [
+        "纹理",
+        "牛皮纸",
+        "复古"
+      ],
+      "source": "local",
+      "priority": 89,
+      "imageUrl": "local-background://background-texture-kraft",
+      "backgroundType": "texture",
+      "previewUrl": "local-background-preview://background-texture-kraft",
+      "color": "#D8B27C",
+      "secondaryColor": "#BE9358",
+      "accentColor": "#8A6235",
+      "renderMode": "kraft",
+      "fitMode": "cover",
+      "customizable": false
+    },
+    {
+      "id": "background-texture-watercolor",
+      "kind": "background",
+      "name": "水彩晕染",
+      "category": "texture",
+      "tags": [
+        "纹理",
+        "水彩",
+        "晕染"
+      ],
+      "source": "local",
+      "priority": 88,
+      "imageUrl": "local-background://background-texture-watercolor",
+      "backgroundType": "texture",
+      "previewUrl": "local-background-preview://background-texture-watercolor",
+      "color": "#FFF9F5",
+      "secondaryColor": "#F4D6C8",
+      "accentColor": "#9FC7C2",
+      "renderMode": "watercolor",
+      "fitMode": "cover",
+      "customizable": false
+    },
+    {
+      "id": "background-texture-vintage",
+      "kind": "background",
+      "name": "复古做旧",
+      "category": "texture",
+      "tags": [
+        "纹理",
+        "复古",
+        "做旧"
+      ],
+      "source": "local",
+      "priority": 87,
+      "imageUrl": "local-background://background-texture-vintage",
+      "backgroundType": "texture",
+      "previewUrl": "local-background-preview://background-texture-vintage",
+      "color": "#EFE0C5",
+      "secondaryColor": "#D7BF98",
+      "accentColor": "#9D7445",
+      "renderMode": "vintage",
+      "fitMode": "cover",
+      "customizable": false
+    },
+    {
+      "id": "background-pattern-floral",
+      "kind": "background",
+      "name": "碎花",
+      "category": "pattern",
+      "tags": [
+        "图案",
+        "碎花",
+        "清新"
+      ],
+      "source": "local",
+      "priority": 86,
+      "imageUrl": "local-background://background-pattern-floral",
+      "backgroundType": "pattern",
+      "previewUrl": "local-background-preview://background-pattern-floral",
+      "color": "#FFF8FA",
+      "secondaryColor": "#F5D6DE",
+      "accentColor": "#6F9C7A",
+      "renderMode": "floral",
+      "fitMode": "tile",
+      "customizable": false
+    },
+    {
+      "id": "background-pattern-polka",
+      "kind": "background",
+      "name": "波点",
+      "category": "pattern",
+      "tags": [
+        "图案",
+        "波点",
+        "可爱"
+      ],
+      "source": "local",
+      "priority": 85,
+      "imageUrl": "local-background://background-pattern-polka",
+      "backgroundType": "pattern",
+      "previewUrl": "local-background-preview://background-pattern-polka",
+      "color": "#FFFDF8",
+      "secondaryColor": "#F0B8C7",
+      "accentColor": "#B76E85",
+      "renderMode": "polka",
+      "fitMode": "tile",
+      "customizable": false
+    },
+    {
+      "id": "background-pattern-stripe",
+      "kind": "background",
+      "name": "条纹",
+      "category": "pattern",
+      "tags": [
+        "图案",
+        "条纹",
+        "简洁"
+      ],
+      "source": "local",
+      "priority": 84,
+      "imageUrl": "local-background://background-pattern-stripe",
+      "backgroundType": "pattern",
+      "previewUrl": "local-background-preview://background-pattern-stripe",
+      "color": "#FFF8F0",
+      "secondaryColor": "#F6C8A4",
+      "accentColor": "#D69064",
+      "renderMode": "stripe",
+      "fitMode": "tile",
+      "customizable": false
+    },
+    {
+      "id": "background-pattern-plaid",
+      "kind": "background",
+      "name": "格子",
+      "category": "pattern",
+      "tags": [
+        "图案",
+        "格子",
+        "学院"
+      ],
+      "source": "local",
+      "priority": 83,
+      "imageUrl": "local-background://background-pattern-plaid",
+      "backgroundType": "pattern",
+      "previewUrl": "local-background-preview://background-pattern-plaid",
+      "color": "#F9FCF7",
+      "secondaryColor": "#D7E4C2",
+      "accentColor": "#9EB988",
+      "renderMode": "plaid",
+      "fitMode": "tile",
+      "customizable": false
+    },
+    {
+      "id": "background-pattern-cloud",
+      "kind": "background",
+      "name": "云朵",
+      "category": "pattern",
+      "tags": [
+        "图案",
+        "云朵",
+        "柔软"
+      ],
+      "source": "local",
+      "priority": 82,
+      "imageUrl": "local-background://background-pattern-cloud",
+      "backgroundType": "pattern",
+      "previewUrl": "local-background-preview://background-pattern-cloud",
+      "color": "#F7FCFF",
+      "secondaryColor": "#D4EAF4",
+      "accentColor": "#7C9EB2",
+      "renderMode": "cloud",
+      "fitMode": "tile",
+      "customizable": false
+    },
+    {
+      "id": "background-pattern-star",
+      "kind": "background",
+      "name": "星星",
+      "category": "pattern",
+      "tags": [
+        "图案",
+        "星星",
+        "夜晚"
+      ],
+      "source": "local",
+      "priority": 81,
+      "imageUrl": "local-background://background-pattern-star",
+      "backgroundType": "pattern",
+      "previewUrl": "local-background-preview://background-pattern-star",
+      "color": "#F9F4FF",
+      "secondaryColor": "#E9DDF8",
+      "accentColor": "#B39DDB",
+      "renderMode": "star",
+      "fitMode": "tile",
+      "customizable": false
+    }
+  ]
+}

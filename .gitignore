@@ -1,0 +1,14 @@
+.expo/
+.expo-shared/
+node_modules/
+dist/
+web-build/
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+pnpm-debug.*
+.DS_Store
+*.xcuserstate
+xcuserdata/
+a couple app/
+*.log

@@ -1,0 +1,33 @@
+{
+  "name": "couple-journal-app",
+  "version": "0.1.0",
+  "private": true,
+  "main": "expo/AppEntry",
+  "scripts": {
+    "start": "expo start",
+    "start:codex": "mkdir -p /private/tmp/couple-app-expo-home && HOME=/private/tmp/couple-app-expo-home EXPO_NO_TELEMETRY=1 expo start --localhost --port 19005",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web",
+    "typecheck": "tsc --noEmit",
+    "assets:manifest": "node scripts/build-assets-manifest.mjs",
+    "assets:prepare-cdn": "npm run assets:manifest && node scripts/prepare-assets-cdn.mjs"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "2.2.0",
+    "expo": "^54.0.34",
+    "expo-file-system": "~19.0.22",
+    "expo-font": "~14.0.11",
+    "expo-image-picker": "~17.0.11",
+    "expo-status-bar": "~3.0.9",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "react-native": "0.81.5",
+    "react-native-gesture-handler": "~2.28.0",
+    "react-native-web": "^0.21.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.0",
+    "typescript": "^5.9.0"
+  }
+}

@@ -1,0 +1,50 @@
+name: Deploy Assets CDN
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'assets/**'
+      - 'scripts/build-assets-manifest.mjs'
+      - 'scripts/prepare-assets-cdn.mjs'
+      - '.github/workflows/deploy-assets.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Build asset manifest
+        run: node scripts/build-assets-manifest.mjs
+
+      - name: Prepare CDN directory
+        run: node scripts/prepare-assets-cdn.mjs
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist/assets-cdn
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4

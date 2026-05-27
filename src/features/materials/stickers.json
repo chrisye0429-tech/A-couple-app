@@ -1,0 +1,248 @@
+{
+  "version": 1,
+  "pageSize": 20,
+  "updatedAt": "2026-05-20",
+  "sourceNote": "贴纸 URL 优先使用 Iconify 公共 API，格式为 https://api.iconify.design/{prefix}/{name}.svg。Flaticon 素材不直接热链；如后续使用，需要先确认下载、商用和署名规则。",
+  "categories": [
+    {
+      "id": "daily",
+      "name": "日常类",
+      "description": "日常生活、记录小事、普通约会场景。",
+      "stickers": [
+        { "id": "sticker-daily-coffee", "kind": "sticker", "name": "咖啡", "category": "daily", "tags": ["日常", "咖啡", "饮品"], "source": "cdn", "priority": 1000, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/hot-beverage.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/hot-beverage.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-daily-books", "kind": "sticker", "name": "书籍", "category": "daily", "tags": ["日常", "书籍", "阅读"], "source": "cdn", "priority": 999, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/books.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/books.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-daily-alarm-clock", "kind": "sticker", "name": "闹钟", "category": "daily", "tags": ["日常", "时间", "闹钟"], "source": "cdn", "priority": 998, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/alarm-clock.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/alarm-clock.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-daily-gift", "kind": "sticker", "name": "礼物", "category": "daily", "tags": ["日常", "礼物", "惊喜"], "source": "cdn", "priority": 997, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/wrapped-gift.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/wrapped-gift.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-daily-shopping-bag", "kind": "sticker", "name": "购物袋", "category": "daily", "tags": ["日常", "购物", "袋子"], "source": "cdn", "priority": 996, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/shopping-bags.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/shopping-bags.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" }
+      ]
+    },
+    {
+      "id": "plant",
+      "name": "植物类",
+      "description": "植物、花朵、自然清新场景。",
+      "stickers": [
+        { "id": "sticker-plant-succulent", "kind": "sticker", "name": "多肉", "category": "plant", "tags": ["植物", "多肉", "盆栽"], "source": "cdn", "priority": 995, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/potted-plant.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/potted-plant.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-plant-cactus", "kind": "sticker", "name": "仙人掌", "category": "plant", "tags": ["植物", "仙人掌", "绿色"], "source": "cdn", "priority": 994, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/cactus.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/cactus.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-plant-monstera", "kind": "sticker", "name": "龟背竹", "category": "plant", "tags": ["植物", "龟背竹", "叶子"], "source": "cdn", "priority": 993, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/leaf-fluttering-in-wind.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/leaf-fluttering-in-wind.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "placeholder", "emoji": "🌿", "notes": "Iconify 暂用叶子图标占位，后续替换为龟背竹专用贴纸。" },
+        { "id": "sticker-plant-rose", "kind": "sticker", "name": "玫瑰花", "category": "plant", "tags": ["植物", "玫瑰", "花"], "source": "cdn", "priority": 992, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/rose.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/rose.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-plant-sunflower", "kind": "sticker", "name": "向日葵", "category": "plant", "tags": ["植物", "向日葵", "花"], "source": "cdn", "priority": 991, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/sunflower.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/sunflower.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" }
+      ]
+    },
+    {
+      "id": "animal",
+      "name": "动物类",
+      "description": "萌宠和可爱动物。",
+      "stickers": [
+        { "id": "sticker-animal-cat", "kind": "sticker", "name": "猫咪", "category": "animal", "tags": ["动物", "猫咪", "萌宠"], "source": "cdn", "priority": 990, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/cat-face.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/cat-face.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-animal-shiba", "kind": "sticker", "name": "柴犬", "category": "animal", "tags": ["动物", "柴犬", "小狗"], "source": "cdn", "priority": 989, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/dog-face.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/dog-face.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "placeholder", "emoji": "🐕", "notes": "暂用小狗脸占位，后续替换为柴犬专用贴纸。" },
+        { "id": "sticker-animal-rabbit", "kind": "sticker", "name": "兔子", "category": "animal", "tags": ["动物", "兔子", "可爱"], "source": "cdn", "priority": 988, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/rabbit-face.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/rabbit-face.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-animal-bear", "kind": "sticker", "name": "小熊", "category": "animal", "tags": ["动物", "小熊", "可爱"], "source": "cdn", "priority": 987, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/bear.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/bear.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-animal-fox", "kind": "sticker", "name": "小狐狸", "category": "animal", "tags": ["动物", "狐狸", "可爱"], "source": "cdn", "priority": 986, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/fox.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/fox.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" }
+      ]
+    },
+    {
+      "id": "decoration",
+      "name": "装饰类",
+      "description": "用于装饰版面的手账小物。",
+      "stickers": [
+        { "id": "sticker-decoration-tape", "kind": "sticker", "name": "胶带", "category": "decoration", "tags": ["装饰", "胶带", "手账"], "source": "cdn", "priority": 985, "imageUrl": "https://api.iconify.design/mdi/tape-measure.svg", "thumbnailUrl": "https://api.iconify.design/mdi/tape-measure.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "placeholder", "emoji": "▰", "notes": "暂用相近图标占位，后续替换为胶带贴纸。" },
+        { "id": "sticker-decoration-paperclip", "kind": "sticker", "name": "回形针", "category": "decoration", "tags": ["装饰", "回形针", "文具"], "source": "cdn", "priority": 984, "imageUrl": "https://api.iconify.design/mdi/paperclip.svg", "thumbnailUrl": "https://api.iconify.design/mdi/paperclip.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-decoration-label", "kind": "sticker", "name": "标签", "category": "decoration", "tags": ["装饰", "标签", "记录"], "source": "cdn", "priority": 983, "imageUrl": "https://api.iconify.design/mdi/label-outline.svg", "thumbnailUrl": "https://api.iconify.design/mdi/label-outline.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-decoration-pin", "kind": "sticker", "name": "图钉", "category": "decoration", "tags": ["装饰", "图钉", "固定"], "source": "cdn", "priority": 982, "imageUrl": "https://api.iconify.design/mdi/pin.svg", "thumbnailUrl": "https://api.iconify.design/mdi/pin.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-decoration-feather", "kind": "sticker", "name": "羽毛", "category": "decoration", "tags": ["装饰", "羽毛", "轻盈"], "source": "cdn", "priority": 981, "imageUrl": "https://api.iconify.design/mdi/feather.svg", "thumbnailUrl": "https://api.iconify.design/mdi/feather.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" }
+      ]
+    },
+    {
+      "id": "emotion",
+      "name": "情绪类",
+      "description": "表达心情、灵感和重点的小贴纸。",
+      "stickers": [
+        { "id": "sticker-emotion-heart", "kind": "sticker", "name": "❤️", "category": "emotion", "tags": ["情绪", "爱心", "喜欢"], "source": "cdn", "priority": 980, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/red-heart.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/red-heart.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready", "emoji": "❤️" },
+        { "id": "sticker-emotion-star", "kind": "sticker", "name": "⭐", "category": "emotion", "tags": ["情绪", "星星", "重点"], "source": "cdn", "priority": 979, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/star.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/star.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready", "emoji": "⭐" },
+        { "id": "sticker-emotion-smile", "kind": "sticker", "name": "😊", "category": "emotion", "tags": ["情绪", "开心", "笑脸"], "source": "cdn", "priority": 978, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/smiling-face-with-smiling-eyes.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/smiling-face-with-smiling-eyes.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready", "emoji": "😊" },
+        { "id": "sticker-emotion-sparkles", "kind": "sticker", "name": "✨", "category": "emotion", "tags": ["情绪", "闪光", "漂亮"], "source": "cdn", "priority": 977, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/sparkles.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/sparkles.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready", "emoji": "✨" },
+        { "id": "sticker-emotion-light-bulb", "kind": "sticker", "name": "💡", "category": "emotion", "tags": ["情绪", "灵感", "灯泡"], "source": "cdn", "priority": 976, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/light-bulb.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/light-bulb.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready", "emoji": "💡" }
+      ]
+    },
+    {
+      "id": "season",
+      "name": "季节类",
+      "description": "春夏秋冬和天气季节元素。",
+      "stickers": [
+        { "id": "sticker-season-cherry-blossom", "kind": "sticker", "name": "樱花", "category": "season", "tags": ["季节", "春天", "樱花"], "source": "cdn", "priority": 975, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/cherry-blossom.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/cherry-blossom.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-season-snowflake", "kind": "sticker", "name": "雪花", "category": "season", "tags": ["季节", "冬天", "雪花"], "source": "cdn", "priority": 974, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/snowflake.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/snowflake.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-season-maple-leaf", "kind": "sticker", "name": "枫叶", "category": "season", "tags": ["季节", "秋天", "枫叶"], "source": "cdn", "priority": 973, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/maple-leaf.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/maple-leaf.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-season-sun", "kind": "sticker", "name": "太阳", "category": "season", "tags": ["季节", "夏天", "太阳"], "source": "cdn", "priority": 972, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/sun.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/sun.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-season-cloud", "kind": "sticker", "name": "云朵", "category": "season", "tags": ["季节", "天气", "云朵"], "source": "cdn", "priority": 971, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/cloud.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/cloud.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" }
+      ]
+    },
+    {
+      "id": "food",
+      "name": "美食类",
+      "description": "约会、美食打卡和日常吃喝。",
+      "stickers": [
+        { "id": "sticker-food-cake", "kind": "sticker", "name": "蛋糕", "category": "food", "tags": ["美食", "蛋糕", "甜点"], "source": "cdn", "priority": 970, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/shortcake.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/shortcake.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-food-ice-cream", "kind": "sticker", "name": "冰淇淋", "category": "food", "tags": ["美食", "冰淇淋", "甜点"], "source": "cdn", "priority": 969, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/soft-ice-cream.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/soft-ice-cream.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-food-bubble-tea", "kind": "sticker", "name": "奶茶", "category": "food", "tags": ["美食", "奶茶", "饮品"], "source": "cdn", "priority": 968, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/bubble-tea.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/bubble-tea.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-food-pizza", "kind": "sticker", "name": "披萨", "category": "food", "tags": ["美食", "披萨", "晚餐"], "source": "cdn", "priority": 967, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/pizza.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/pizza.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-food-sushi", "kind": "sticker", "name": "寿司", "category": "food", "tags": ["美食", "寿司", "日料"], "source": "cdn", "priority": 966, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/sushi.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/sushi.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "旅行类",
+      "description": "旅行、出游和城市打卡。",
+      "stickers": [
+        { "id": "sticker-travel-airplane", "kind": "sticker", "name": "飞机", "category": "travel", "tags": ["旅行", "飞机", "出发"], "source": "cdn", "priority": 965, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/airplane.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/airplane.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-travel-camera", "kind": "sticker", "name": "相机", "category": "travel", "tags": ["旅行", "相机", "拍照"], "source": "cdn", "priority": 964, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/camera.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/camera.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-travel-map", "kind": "sticker", "name": "地图", "category": "travel", "tags": ["旅行", "地图", "路线"], "source": "cdn", "priority": 963, "imageUrl": "https://api.iconify.design/mdi/map.svg", "thumbnailUrl": "https://api.iconify.design/mdi/map.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-travel-luggage", "kind": "sticker", "name": "行李箱", "category": "travel", "tags": ["旅行", "行李箱", "出游"], "source": "cdn", "priority": 962, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/luggage.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/luggage.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-travel-postcard", "kind": "sticker", "name": "明信片", "category": "travel", "tags": ["旅行", "明信片", "纪念"], "source": "cdn", "priority": 961, "imageUrl": "https://api.iconify.design/mdi/postcard-outline.svg", "thumbnailUrl": "https://api.iconify.design/mdi/postcard-outline.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" }
+      ]
+    },
+    {
+      "id": "stationery",
+      "name": "文具类",
+      "description": "学习、计划和笔记素材。",
+      "stickers": [
+        { "id": "sticker-stationery-pen", "kind": "sticker", "name": "钢笔", "category": "stationery", "tags": ["文具", "钢笔", "书写"], "source": "cdn", "priority": 960, "imageUrl": "https://api.iconify.design/mdi/fountain-pen-tip.svg", "thumbnailUrl": "https://api.iconify.design/mdi/fountain-pen-tip.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-stationery-pencil", "kind": "sticker", "name": "铅笔", "category": "stationery", "tags": ["文具", "铅笔", "书写"], "source": "cdn", "priority": 959, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/pencil.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/pencil.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-stationery-eraser", "kind": "sticker", "name": "橡皮", "category": "stationery", "tags": ["文具", "橡皮", "修改"], "source": "cdn", "priority": 958, "imageUrl": "https://api.iconify.design/mdi/eraser.svg", "thumbnailUrl": "https://api.iconify.design/mdi/eraser.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-stationery-ruler", "kind": "sticker", "name": "尺子", "category": "stationery", "tags": ["文具", "尺子", "学习"], "source": "cdn", "priority": 957, "imageUrl": "https://api.iconify.design/mdi/ruler.svg", "thumbnailUrl": "https://api.iconify.design/mdi/ruler.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-stationery-notebook", "kind": "sticker", "name": "笔记本", "category": "stationery", "tags": ["文具", "笔记本", "记录"], "source": "cdn", "priority": 956, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/notebook.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/notebook.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" }
+      ]
+    },
+    {
+      "id": "border",
+      "name": "边框类",
+      "description": "用于圈重点或装饰照片的边框素材。",
+      "stickers": [
+        { "id": "sticker-border-dashed", "kind": "sticker", "name": "虚线框", "category": "border", "tags": ["边框", "虚线", "框"], "source": "local", "priority": 955, "imageUrl": "emoji://dashed-frame", "thumbnailUrl": "emoji://dashed-frame", "provider": "emoji", "status": "placeholder", "emoji": "▧", "notes": "待替换为 SVG 边框素材。" },
+        { "id": "sticker-border-wave", "kind": "sticker", "name": "波浪框", "category": "border", "tags": ["边框", "波浪", "框"], "source": "local", "priority": 954, "imageUrl": "emoji://wave-frame", "thumbnailUrl": "emoji://wave-frame", "provider": "emoji", "status": "placeholder", "emoji": "﹋", "notes": "待替换为 SVG 边框素材。" },
+        { "id": "sticker-border-torn-paper", "kind": "sticker", "name": "撕纸边", "category": "border", "tags": ["边框", "撕纸", "纸张"], "source": "local", "priority": 953, "imageUrl": "emoji://torn-paper-edge", "thumbnailUrl": "emoji://torn-paper-edge", "provider": "emoji", "status": "placeholder", "emoji": "▱", "notes": "待替换为撕纸边素材。" },
+        { "id": "sticker-border-circle", "kind": "sticker", "name": "圆框", "category": "border", "tags": ["边框", "圆框", "框"], "source": "local", "priority": 952, "imageUrl": "emoji://circle-frame", "thumbnailUrl": "emoji://circle-frame", "provider": "emoji", "status": "placeholder", "emoji": "◯", "notes": "待替换为 SVG 圆框素材。" },
+        { "id": "sticker-border-star", "kind": "sticker", "name": "星星框", "category": "border", "tags": ["边框", "星星", "框"], "source": "local", "priority": 951, "imageUrl": "emoji://star-frame", "thumbnailUrl": "emoji://star-frame", "provider": "emoji", "status": "placeholder", "emoji": "✩", "notes": "待替换为 SVG 星星框素材。" }
+      ]
+    },
+    {
+      "id": "love",
+      "name": "爱情类",
+      "description": "情侣、喜欢、告白和亲密关系。",
+      "stickers": [
+        { "id": "sticker-love-two-hearts", "kind": "sticker", "name": "两颗心", "category": "love", "tags": ["爱情", "情侣", "爱心"], "source": "cdn", "priority": 950, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/two-hearts.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/two-hearts.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-love-love-letter", "kind": "sticker", "name": "情书", "category": "love", "tags": ["爱情", "情书", "信"], "source": "cdn", "priority": 949, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/love-letter.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/love-letter.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-love-ring", "kind": "sticker", "name": "戒指", "category": "love", "tags": ["爱情", "戒指", "纪念"], "source": "cdn", "priority": 948, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/ring.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/ring.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-love-heart-arrow", "kind": "sticker", "name": "心动箭头", "category": "love", "tags": ["爱情", "心动", "箭头"], "source": "cdn", "priority": 947, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/heart-with-arrow.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/heart-with-arrow.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-love-couple", "kind": "sticker", "name": "情侣", "category": "love", "tags": ["爱情", "情侣", "两个人"], "source": "cdn", "priority": 946, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/couple-with-heart.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/couple-with-heart.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" }
+      ]
+    },
+    {
+      "id": "anniversary",
+      "name": "纪念日类",
+      "description": "生日、纪念日、庆祝和特别时刻。",
+      "stickers": [
+        { "id": "sticker-anniversary-calendar-heart", "kind": "sticker", "name": "心形日历", "category": "anniversary", "tags": ["纪念日", "日历", "爱心"], "source": "cdn", "priority": 945, "imageUrl": "https://api.iconify.design/mdi/calendar-heart.svg", "thumbnailUrl": "https://api.iconify.design/mdi/calendar-heart.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-anniversary-birthday-cake", "kind": "sticker", "name": "生日蛋糕", "category": "anniversary", "tags": ["纪念日", "生日", "蛋糕"], "source": "cdn", "priority": 944, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/birthday-cake.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/birthday-cake.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-anniversary-party-popper", "kind": "sticker", "name": "礼花", "category": "anniversary", "tags": ["纪念日", "庆祝", "礼花"], "source": "cdn", "priority": 943, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/party-popper.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/party-popper.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-anniversary-clink", "kind": "sticker", "name": "干杯", "category": "anniversary", "tags": ["纪念日", "干杯", "庆祝"], "source": "cdn", "priority": 942, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/clinking-glasses.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/clinking-glasses.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-anniversary-bouquet", "kind": "sticker", "name": "花束", "category": "anniversary", "tags": ["纪念日", "花束", "礼物"], "source": "cdn", "priority": 941, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/bouquet.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/bouquet.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" }
+      ]
+    },
+    {
+      "id": "weather",
+      "name": "天气类",
+      "description": "天气记录和每日心情天气。",
+      "stickers": [
+        { "id": "sticker-weather-umbrella", "kind": "sticker", "name": "雨伞", "category": "weather", "tags": ["天气", "下雨", "雨伞"], "source": "cdn", "priority": 940, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/umbrella-with-rain-drops.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/umbrella-with-rain-drops.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-weather-rainbow", "kind": "sticker", "name": "彩虹", "category": "weather", "tags": ["天气", "彩虹", "晴天"], "source": "cdn", "priority": 939, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/rainbow.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/rainbow.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-weather-rain-cloud", "kind": "sticker", "name": "雨云", "category": "weather", "tags": ["天气", "雨云", "下雨"], "source": "cdn", "priority": 938, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/cloud-with-rain.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/cloud-with-rain.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-weather-lightning", "kind": "sticker", "name": "闪电", "category": "weather", "tags": ["天气", "闪电", "雷雨"], "source": "cdn", "priority": 937, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/high-voltage.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/high-voltage.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-weather-fog", "kind": "sticker", "name": "雾气", "category": "weather", "tags": ["天气", "雾", "清晨"], "source": "cdn", "priority": 936, "imageUrl": "https://api.iconify.design/mdi/weather-fog.svg", "thumbnailUrl": "https://api.iconify.design/mdi/weather-fog.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" }
+      ]
+    },
+    {
+      "id": "constellation",
+      "name": "星座类",
+      "description": "夜空、星座和许愿主题。",
+      "stickers": [
+        { "id": "sticker-constellation-moon", "kind": "sticker", "name": "月亮", "category": "constellation", "tags": ["星座", "月亮", "夜晚"], "source": "cdn", "priority": 935, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/crescent-moon.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/crescent-moon.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-constellation-shooting-star", "kind": "sticker", "name": "流星", "category": "constellation", "tags": ["星座", "流星", "许愿"], "source": "cdn", "priority": 934, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/shooting-star.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/shooting-star.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-constellation-milky-way", "kind": "sticker", "name": "银河", "category": "constellation", "tags": ["星座", "银河", "夜空"], "source": "cdn", "priority": 933, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/milky-way.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/milky-way.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-constellation-telescope", "kind": "sticker", "name": "望远镜", "category": "constellation", "tags": ["星座", "望远镜", "观察"], "source": "cdn", "priority": 932, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/telescope.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/telescope.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-constellation-zodiac", "kind": "sticker", "name": "星座盘", "category": "constellation", "tags": ["星座", "星盘", "神秘"], "source": "cdn", "priority": 931, "imageUrl": "https://api.iconify.design/mdi/zodiac-aquarius.svg", "thumbnailUrl": "https://api.iconify.design/mdi/zodiac-aquarius.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "placeholder", "emoji": "♒", "notes": "暂用水瓶座图标占位，后续可扩展十二星座。" }
+      ]
+    },
+    {
+      "id": "music",
+      "name": "音乐类",
+      "description": "演唱会、歌单和音乐心情。",
+      "stickers": [
+        { "id": "sticker-music-notes", "kind": "sticker", "name": "音符", "category": "music", "tags": ["音乐", "音符", "旋律"], "source": "cdn", "priority": 930, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/musical-notes.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/musical-notes.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-music-guitar", "kind": "sticker", "name": "吉他", "category": "music", "tags": ["音乐", "吉他", "乐器"], "source": "cdn", "priority": 929, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/guitar.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/guitar.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-music-microphone", "kind": "sticker", "name": "麦克风", "category": "music", "tags": ["音乐", "麦克风", "唱歌"], "source": "cdn", "priority": 928, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/microphone.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/microphone.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-music-headphone", "kind": "sticker", "name": "耳机", "category": "music", "tags": ["音乐", "耳机", "听歌"], "source": "cdn", "priority": 927, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/headphone.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/headphone.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-music-drum", "kind": "sticker", "name": "鼓", "category": "music", "tags": ["音乐", "鼓", "节奏"], "source": "cdn", "priority": 926, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/drum.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/drum.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" }
+      ]
+    },
+    {
+      "id": "sport",
+      "name": "运动类",
+      "description": "运动、健身和户外活动。",
+      "stickers": [
+        { "id": "sticker-sport-soccer", "kind": "sticker", "name": "足球", "category": "sport", "tags": ["运动", "足球", "比赛"], "source": "cdn", "priority": 925, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/soccer-ball.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/soccer-ball.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-sport-basketball", "kind": "sticker", "name": "篮球", "category": "sport", "tags": ["运动", "篮球", "比赛"], "source": "cdn", "priority": 924, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/basketball.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/basketball.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-sport-tennis", "kind": "sticker", "name": "网球", "category": "sport", "tags": ["运动", "网球", "比赛"], "source": "cdn", "priority": 923, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/tennis.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/tennis.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-sport-bicycle", "kind": "sticker", "name": "自行车", "category": "sport", "tags": ["运动", "骑行", "自行车"], "source": "cdn", "priority": 922, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/bicycle.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/bicycle.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-sport-running-shoe", "kind": "sticker", "name": "跑鞋", "category": "sport", "tags": ["运动", "跑步", "跑鞋"], "source": "cdn", "priority": 921, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/running-shoe.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/running-shoe.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" }
+      ]
+    },
+    {
+      "id": "home",
+      "name": "家居类",
+      "description": "居家日常、房间和温暖生活。",
+      "stickers": [
+        { "id": "sticker-home-house", "kind": "sticker", "name": "房子", "category": "home", "tags": ["家居", "房子", "家"], "source": "cdn", "priority": 920, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/house.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/house.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-home-sofa", "kind": "sticker", "name": "沙发", "category": "home", "tags": ["家居", "沙发", "休息"], "source": "cdn", "priority": 919, "imageUrl": "https://api.iconify.design/mdi/sofa.svg", "thumbnailUrl": "https://api.iconify.design/mdi/sofa.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-home-bed", "kind": "sticker", "name": "床", "category": "home", "tags": ["家居", "床", "休息"], "source": "cdn", "priority": 918, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/bed.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/bed.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-home-cooking", "kind": "sticker", "name": "做饭", "category": "home", "tags": ["家居", "做饭", "厨房"], "source": "cdn", "priority": 917, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/cooking.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/cooking.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-home-teacup", "kind": "sticker", "name": "茶杯", "category": "home", "tags": ["家居", "茶杯", "下午茶"], "source": "cdn", "priority": 916, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/teacup-without-handle.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/teacup-without-handle.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" }
+      ]
+    },
+    {
+      "id": "festival",
+      "name": "节日类",
+      "description": "传统节日和节庆装饰。",
+      "stickers": [
+        { "id": "sticker-festival-christmas-tree", "kind": "sticker", "name": "圣诞树", "category": "festival", "tags": ["节日", "圣诞", "树"], "source": "cdn", "priority": 915, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/christmas-tree.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/christmas-tree.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-festival-fireworks", "kind": "sticker", "name": "烟花", "category": "festival", "tags": ["节日", "烟花", "庆祝"], "source": "cdn", "priority": 914, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/fireworks.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/fireworks.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-festival-pumpkin", "kind": "sticker", "name": "南瓜灯", "category": "festival", "tags": ["节日", "万圣节", "南瓜"], "source": "cdn", "priority": 913, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/jack-o-lantern.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/jack-o-lantern.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-festival-moon-cake", "kind": "sticker", "name": "月饼", "category": "festival", "tags": ["节日", "中秋", "月饼"], "source": "cdn", "priority": 912, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/moon-cake.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/moon-cake.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-festival-red-envelope", "kind": "sticker", "name": "红包", "category": "festival", "tags": ["节日", "春节", "红包"], "source": "cdn", "priority": 911, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/red-envelope.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/red-envelope.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" }
+      ]
+    },
+    {
+      "id": "study",
+      "name": "学习类",
+      "description": "学习计划、复习和成长记录。",
+      "stickers": [
+        { "id": "sticker-study-graduation-cap", "kind": "sticker", "name": "毕业帽", "category": "study", "tags": ["学习", "毕业", "成长"], "source": "cdn", "priority": 910, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/graduation-cap.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/graduation-cap.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-study-magnifier", "kind": "sticker", "name": "放大镜", "category": "study", "tags": ["学习", "查找", "研究"], "source": "cdn", "priority": 909, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/magnifying-glass-tilted-left.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/magnifying-glass-tilted-left.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-study-open-book", "kind": "sticker", "name": "打开的书", "category": "study", "tags": ["学习", "阅读", "书"], "source": "cdn", "priority": 908, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/open-book.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/open-book.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-study-memo", "kind": "sticker", "name": "备忘录", "category": "study", "tags": ["学习", "笔记", "备忘"], "source": "cdn", "priority": 907, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/memo.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/memo.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-study-laptop", "kind": "sticker", "name": "笔记本电脑", "category": "study", "tags": ["学习", "电脑", "在线"], "source": "cdn", "priority": 906, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/laptop.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/laptop.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" }
+      ]
+    },
+    {
+      "id": "work",
+      "name": "工作类",
+      "description": "工作计划、待办和职场记录。",
+      "stickers": [
+        { "id": "sticker-work-briefcase", "kind": "sticker", "name": "公文包", "category": "work", "tags": ["工作", "公文包", "职场"], "source": "cdn", "priority": 905, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/briefcase.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/briefcase.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-work-chart", "kind": "sticker", "name": "增长图表", "category": "work", "tags": ["工作", "图表", "进展"], "source": "cdn", "priority": 904, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/chart-increasing.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/chart-increasing.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-work-computer", "kind": "sticker", "name": "台式电脑", "category": "work", "tags": ["工作", "电脑", "办公"], "source": "cdn", "priority": 903, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/desktop-computer.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/desktop-computer.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-work-envelope", "kind": "sticker", "name": "邮件", "category": "work", "tags": ["工作", "邮件", "沟通"], "source": "cdn", "priority": 902, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/envelope.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/envelope.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" },
+        { "id": "sticker-work-clipboard", "kind": "sticker", "name": "剪贴板", "category": "work", "tags": ["工作", "待办", "剪贴板"], "source": "cdn", "priority": 901, "imageUrl": "https://api.iconify.design/fluent-emoji-flat/clipboard.svg", "thumbnailUrl": "https://api.iconify.design/fluent-emoji-flat/clipboard.svg", "provider": "iconify", "license": "Iconify 图标集授权，发布前按具体图标集复核", "status": "ready" }
+      ]
+    }
+  ]
+}

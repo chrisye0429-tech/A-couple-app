@@ -1,0 +1,47 @@
+export {
+  checkAndDownloadAssetUpdates,
+  clearCachedAssetVersionState,
+  defaultAssetCdnConfig,
+  fetchAssetVersionManifest,
+  getCachedAssetVersionState,
+} from './assetCdnManager';
+export {
+  AsyncStorageMaterialCacheAdapter,
+  MaterialManager,
+  createExpoFontRegistrar,
+  materialManager,
+} from './materialManager';
+export type {
+  AssetCdnConfig,
+  AssetVersionCheckResult,
+  AssetVersionManifest,
+  CachedAssetVersionState,
+  CdnAssetFile,
+  CdnAssetKind,
+} from './assetCdnManager';
+export type {
+  BackgroundMaterial,
+  BackgroundFitMode,
+  BackgroundMaterialType,
+  BackgroundRenderMode,
+  CachedMaterial,
+  FontLibraryConfig,
+  FontMaterial,
+  FontPreviewConfig,
+  FontRegistrar,
+  FontProvider,
+  FontStatus,
+  Material,
+  MaterialCacheAdapter,
+  MaterialIndexConfig,
+  MaterialKind,
+  MaterialPage,
+  MaterialQuery,
+  MaterialSource,
+  StickerCategoryConfig,
+  StickerLibraryConfig,
+  StickerMaterial,
+  StickerProvider,
+  StickerStatus,
+  SupportedLanguage,
+} from './types';

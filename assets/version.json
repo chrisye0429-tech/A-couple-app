@@ -1,0 +1,30 @@
+{
+  "version": "2026.05.21.1",
+  "updatedAt": "2026-05-21T03:08:38.546Z",
+  "baseUrl": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_NAME/YOUR_REPO@main/assets/",
+  "indexes": {
+    "stickers": "stickers/index.json",
+    "fonts": "fonts/fonts.json",
+    "backgrounds": "backgrounds/index.json"
+  },
+  "assets": [
+    {
+      "path": "backgrounds/index.json",
+      "kind": "background",
+      "hash": "ba525d2c222336575a9e43f5c9a7a66364e2671bc051b98c82a08fb9599efb7f",
+      "size": 409
+    },
+    {
+      "path": "fonts/fonts.json",
+      "kind": "font",
+      "hash": "a0fddc3a7dd491e99de18eae570b3126f294a4adc157157d1ca22d1bbf20605e",
+      "size": 348
+    },
+    {
+      "path": "stickers/index.json",
+      "kind": "sticker",
+      "hash": "489242b6ad292432d0167dbabce5605dcfb3ea1998ca9a2e848d7decd0d2fe13",
+      "size": 345
+    }
+  ]
+}

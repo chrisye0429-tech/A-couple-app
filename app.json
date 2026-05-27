@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "情侣手账",
+    "slug": "couple-journal-app",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSPhotoLibraryUsageDescription": "用于从相册选择照片，添加到情侣手账页面中。"
+      },
+      "bundleIdentifier": "com.anonymous.couple-journal-app"
+    },
+    "android": {
+      "permissions": [
+        "READ_MEDIA_IMAGES",
+        "READ_EXTERNAL_STORAGE",
+        "READ_MEDIA_IMAGES",
+        "READ_EXTERNAL_STORAGE"
+      ],
+      "adaptiveIcon": {
+        "backgroundColor": "#F8DCE5"
+      },
+      "package": "com.anonymous.couplejournalapp"
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "version": "2026.05.21.1",
+  "updatedAt": "2026-05-21T00:00:00.000Z",
+  "basePath": "fonts",
+  "fonts": [
+    {
+      "id": "source-han-sans",
+      "name": "思源黑体",
+      "file": "fonts/SourceHanSans.ttf",
+      "fontFamily": "SourceHanSansCN",
+      "languages": ["zh-Hans", "zh-Hant", "en"],
+      "status": "placeholder"
+    }
+  ]
+}

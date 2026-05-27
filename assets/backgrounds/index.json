@@ -1,0 +1,20 @@
+{
+  "version": "2026.05.21.1",
+  "updatedAt": "2026-05-21T00:00:00.000Z",
+  "basePath": "backgrounds",
+  "backgrounds": [
+    {
+      "id": "solid-milk-tea",
+      "name": "奶茶色",
+      "type": "solid",
+      "color": "#F5E6D3",
+      "path": "backgrounds/solid"
+    },
+    {
+      "id": "pattern-grid",
+      "name": "网格纸",
+      "type": "pattern",
+      "path": "backgrounds/pattern"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "version": "2026.05.21.1",
+  "updatedAt": "2026-05-21T00:00:00.000Z",
+  "basePath": "stickers",
+  "categories": [
+    {
+      "id": "daily",
+      "name": "日常类",
+      "path": "stickers/daily",
+      "items": []
+    },
+    {
+      "id": "plant",
+      "name": "植物类",
+      "path": "stickers/plant",
+      "items": []
+    }
+  ]
+}
